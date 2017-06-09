@@ -34,6 +34,11 @@ h3 {
 	
 }
 
+h4 {
+	text-align: center;
+	font-family: 'Fjalla One', sans-serif;
+}
+
 h5 {
 	text-align: center;
 	font-family: : 'Fjalla One', sans-serif;
@@ -65,23 +70,31 @@ a.fa.fa-envelope {
 
 }
 
+div.transbox {
+  margin: 20px;
+  background-color: black;
+  opacity: 0.6;
+  filter: alpha(opacity=60); /* For IE8 and earlier */
+  padding: 5px;
+}
+
 p {
 	color:white;
-	font-size: 20px;
+	font-size: 18px;
 }
 .thumbnail {
-	background-color: black;
+	background-color: grey;
 
 }
 
 #tm1 {
-	height: 150px;
+	height: 125px;
 	width: 150px;
 	border: 1px solid white;
 }
 
 .button1 {
-    background-color: #FF5C5B; /* Green */
+    background-color: #FF5C5B;
     border: none;
     color: white;
     padding: 15px 32px;
@@ -94,8 +107,10 @@ p {
     -webkit-transition-duration: 0.4s; /* Safari */
     transition-duration: 0.4s;
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
-    border:1px solid white;
-   
+    border:1px solid white; 
 
 }
 
+#contact {
+	padding-left: 4cm;  
+}
