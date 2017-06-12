@@ -78,7 +78,7 @@ a.fa.fa-envelope {
 div.transbox {
   margin: 20px;
   background-color: black;
-  opacity: 0.6;
+  opacity: 0.8;
   filter: alpha(opacity=60); /* For IE8 and earlier */
   padding: 5px;
 }
