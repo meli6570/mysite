@@ -116,6 +116,11 @@ p {
 
 }
 
+a.button1 {
+	position:relative; 
+	
+}
+
 #contact {
 	padding-left: 4cm;  
 }
@@ -199,7 +204,7 @@ ul.social-icons {
     background-color: #458eff;
 }
 
-#typewriter {
+#connect {
 	display: block;
     margin: auto;
     width: 20%;
