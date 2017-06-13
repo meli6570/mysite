@@ -1,3 +1,5 @@
+
+
 .ul {
 	background-color: black;
 
@@ -19,6 +21,9 @@ body {
     margin: auto;
     width: 20%;
     height:20%;
+    -webkit-box-shadow: 5px 5px 5px 0px rgba(153,151,153,1);
+	-moz-box-shadow: 5px 5px 5px 0px rgba(153,151,153,1);
+	box-shadow: 5px 5px 5px 0px black;
     
 }
 
@@ -56,6 +61,8 @@ h5 {
     width: 20%;
     height:20%;
     padding-left: 4cm;
+ 
+
 
 }
 
@@ -81,14 +88,21 @@ div.transbox {
   opacity: 0.8;
   filter: alpha(opacity=60); /* For IE8 and earlier */
   padding: 5px;
+  -webkit-box-shadow: 5px 5px 5px 0px rgba(153,151,153,1);
+	-moz-box-shadow: 5px 5px 5px 0px rgba(153,151,153,1);
+	box-shadow: 5px 5px 5px 0px black;
 }
 
 p {
 	color:white;
 	font-size: 18px;
 }
-.thumbnail {
-	background-color: grey;
+
+div.thumbnail {
+	-webkit-box-shadow: 5px 5px 5px 0px rgba(153,151,153,1);
+	-moz-box-shadow: 5px 5px 5px 0px rgba(153,151,153,1);
+	box-shadow: 5px 5px 5px 0px black;
+	
 
 }
 
