@@ -6,7 +6,7 @@
 }
 
 body {
-   background: url(http://wallzoa.com/wp-content/uploads/2013/07/skyline-wallpaper-black-and-white-hd.jpg) no-repeat center center fixed; 
+   background: url(http://cdn.desktopwallpaper4.me/wallpapers/digital-art/1680x1050/1/1114-stone-hexagons-1680x1050-digital-art-wallpaper.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -24,6 +24,7 @@ body {
     -webkit-box-shadow: 5px 5px 5px 0px rgba(153,151,153,1);
 	-moz-box-shadow: 5px 5px 5px 0px rgba(153,151,153,1);
 	box-shadow: 5px 5px 5px 0px black;
+    -webkit-amimation-duration: 1s;
     
 }
 
@@ -52,6 +53,10 @@ h4 {
 h5 {
 	text-align: center;
 	font-family: : 'Fjalla One', sans-serif;
+}
+
+a {
+    text-align: center;
 }
 
 
@@ -177,6 +182,9 @@ ul.social-icons {
     -webkit-transition:.5s;
     transition: .5s;
     background-color: #FF5C5B;
+    -webkit-box-shadow: 5px 5px 5px 0px rgba(153,151,153,1);
+    -moz-box-shadow: 5px 5px 5px 0px rgba(153,151,153,1);
+    box-shadow: 5px 5px 5px 0px black;
 }
 .fa-facebook:hover {
     background-color: #3d5b99;
@@ -189,6 +197,9 @@ ul.social-icons {
     -webkit-transition:.5s;
     transition: .5s;
     background-color: #FF5C5B;
+    -webkit-box-shadow: 5px 5px 5px 0px rgba(153,151,153,1);
+    -moz-box-shadow: 5px 5px 5px 0px rgba(153,151,153,1);
+    box-shadow: 5px 5px 5px 0px black;
 }
 .fa-twitter:hover {
     background-color: #00aced;
@@ -201,6 +212,9 @@ ul.social-icons {
     -webkit-transition:.5s;
     transition: .5s;
     background-color: #FF5C5B;
+    -webkit-box-shadow: 5px 5px 5px 0px rgba(153,151,153,1);
+    -moz-box-shadow: 5px 5px 5px 0px rgba(153,151,153,1);
+    box-shadow: 5px 5px 5px 0px black;
 }
 .fa-linkedin:hover {
     background-color: #0073a4;
@@ -213,6 +227,9 @@ ul.social-icons {
     -webkit-transition:.5s;
     transition: .5s;
     background-color: #FF5C5B;
+    -webkit-box-shadow: 5px 5px 5px 0px rgba(153,151,153,1);
+    -moz-box-shadow: 5px 5px 5px 0px rgba(153,151,153,1);
+    box-shadow: 5px 5px 5px 0px black;
 }
 .fa-instagram:hover {
     background-color: #458eff;
@@ -224,3 +241,4 @@ ul.social-icons {
     width: 20%;
     height:20%;
 }
+
